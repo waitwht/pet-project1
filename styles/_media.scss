@@ -1,0 +1,16 @@
+@media (max-width: $bp4) {
+  .colors {
+    flex-direction: column;
+    height: 100vh;
+  }
+
+  .column {
+    border: none;
+  }
+}
+
+@media (max-width: $bp3) {
+  .mobile {
+    display: block;
+  }
+}
